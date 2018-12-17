@@ -1,0 +1,54 @@
+body{
+	
+    }
+	
+    #vardas {
+        font-size: 14px;
+        text-align: right;
+		color: #734d2e;
+
+    }
+    .center {
+        text-align: center;
+		
+		
+    }
+    .paveiksl {
+        height:54%;
+    }
+	h1 {
+    background-color: white;
+}
+    .dydis {
+        font-size: 30;      
+
+    }
+	.ledai{
+		margin-top: 100px;
+	}
+	a:visited{
+		color: #734d2e;
+	}
+	a:link{
+		text-decoration: none;
+		color: #734d2e;
+	}
+	a:hover{
+		color: #c27829;
+	}
+	table, td {
+	background-color: white;
+	}
+	table{
+		margin: auto;
+		width: 20%;
+	}
+
+	}
+	.lentele{
+		text-align: center;
+		vertical-align: middle;
+		text-align: middle;
+		margin-top: 200px;
+	}
+	</head>
