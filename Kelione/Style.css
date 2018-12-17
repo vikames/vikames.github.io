@@ -1,0 +1,26 @@
+body{
+	background-color: #f2ebdb;
+    }
+    #vardas {
+        font-size: 14px;
+        text-align: bottom;
+
+    }
+    .center {
+        text-align: center;
+    }
+    .paveiksl {
+        height:54%;
+    }
+    .dydis {
+        font-size: 20;      
+
+    }
+	a:hover{
+		color: red;
+	}
+	a:link{
+		text-decoration: none;
+		color: navy;
+	}
+	</head>
