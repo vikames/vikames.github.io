@@ -1,0 +1,93 @@
+body {background-color: rgb(53, 49, 48);
+	margin: 0px;}
+	.virsus{
+		width: 500px;
+		height: 30px;
+		margin: auto;
+		margin-bottom: 10px;
+	}
+	.didysispaveiksl{
+		width: 100%;
+	}
+	.mygtukai{
+		float: left;
+		color: azure;
+		margin-left: 50px;
+		height: 20px;
+		font-family: Verdana, Geneva, sans-serif;
+	}
+	.antraste{
+		background-color; 
+		width: auto;
+		height: 40px;
+	}
+	.pavadinimas{
+		margin-top: 30px;
+		text-align: center;
+		color: white;
+		font-family: Verdana, Geneva, sans-serif;
+	}
+	.tekstas1{
+		font-family: "Courier New";
+		color: white;
+	}
+	.tekstas2{
+		font-family: "Courier New";
+		color: white;
+		font-size: 20px;
+		text-align: center;
+	}
+	.about{
+		background-color: #5a5a5a;
+		height: 370px;
+		vertical-align: middle;
+		padding-right: 100px;
+		padding-left: 100px;
+	}
+	.kortele {
+	
+	padding-right: 20px;
+	height: 340px;
+	border: 3px;
+	margin: auto;
+	text-align: center;
+		
+	}
+	.lentele{
+		width: 40%;
+		margin: auto;
+	}
+	.didysis {
+		/*background-color:grey;*/
+
+		height: 450px;
+		margin: auto;
+		width: 100%;
+	}
+	.paveiksl {
+		height: 320px;
+	}
+	.data {
+		text-align: right;
+		font-family: "Courier New";
+		color: rgb(187, 187, 187);
+		font-size: 15px;
+	}
+	.tarpas {
+		height: 0.5px;
+	}
+	.readmore{
+		font-family: "Courier New";
+		color: white;
+		font-size: 20px;
+	}
+	a:visited{
+		color: #ffffff;
+	}
+	a:link{
+		text-decoration: none;
+		color: #ffffff;
+	}
+	a:hover{
+		color: #707070;
+	}
